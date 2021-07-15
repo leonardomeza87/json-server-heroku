@@ -6,9 +6,9 @@
       "content": "My first content!"
     },
     {
-      "id": 0,
-      "title": "First post!",
-      "content": "My first content!"
+      "id": 1,
+      "title": "Second post!",
+      "content": "My second content!"
     }
   ],
   "comments": [
@@ -16,33 +16,6 @@
       "id": 0,
       "content": "Wow such content!",
       "username": "zero_cool"
-    }
-  ],
-  "santos": [
-    {
-      "id": 1,
-      "name": "Seiya",
-      "constellation": "Pegaso"
-    },
-    {
-      "id": 2,
-      "name": "Shiryu",
-      "constellation": "Dragón"
-    },
-    {
-      "id": 3,
-      "name": "Hyoga",
-      "constellation": "Cisne"
-    },
-    {
-      "id": 4,
-      "name": "Shun",
-      "constellation": "Andrómeda"
-    },
-    {
-      "id": 5,
-      "name": "Ikki",
-      "constellation": "Fénix"
     }
   ]
 }
